@@ -3,6 +3,8 @@
 ## Motivation
  The project is motivated to have a deeper look at the gender inequalities that exists specifically in the tech space. For this purpose, Stackoverflow's 2018 survey results are deeply analyzed. Although, may not be completely scientific, the analysis is aimed to have some understanding at the magnitude of inequalities between genders, and how they relate to economic factors of the country, if any. 
 
+ **Medium Blog Post: ** https://medium.com/@chalam.pusuluri/gender-inequality-in-tech-space-a-deeper-analysis-483109dc4533?source=friends_link&sk=f4b58fa2b331e8f601e4420ad94098db
+
 ## Requirements: 
 - Python 3.5 or higher 
 - Matplotlib
